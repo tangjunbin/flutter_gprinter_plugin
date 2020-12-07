@@ -142,6 +142,6 @@ class _MyAppState extends State<MyApp> {
   }
 
   void _onTextViewCreated(TextViewController controller) {
-    controller.setText('Hello from Android!');
+    controller.setText('蓝牙列表');
   }
 }
