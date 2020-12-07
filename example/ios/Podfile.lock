@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - gp_plugin (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - gp_plugin (from `.symlinks/plugins/gp_plugin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  gp_plugin:
+    :path: ".symlinks/plugins/gp_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  gp_plugin: f005c447f8da022c9a55463ca7514580356853ae
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.9.3
